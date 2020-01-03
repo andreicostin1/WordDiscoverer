@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Words",
+    "slug": "Words",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.costin.unscrambler",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ad.unscrambler",
+      "versionCode": 3
+    },
+    "description": ""
+  }
+}
